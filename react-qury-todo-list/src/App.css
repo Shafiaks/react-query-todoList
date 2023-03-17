@@ -1,0 +1,40 @@
+*{
+  background-color: rgb(222, 241, 241);
+}
+
+.container {
+  justify-content: center;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.list{
+  list-style: none;
+}
+
+.btn {
+  height:2.3em; 
+  margin-left:2% ;
+  background-color: rgb(141, 245, 202);
+}
+
+input{
+  height:2em;
+  width:35%;
+}
+.checkbox{
+  width:5%;
+}
+
+.list li, .edit-input {
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+}
+.new-entry-field{
+  width: 50%;
+}
+.form{
+  margin-top: 5%;
+  margin-bottom: 7%;
+}

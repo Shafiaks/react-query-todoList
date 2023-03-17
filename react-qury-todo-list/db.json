@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "todo": "new task --- newly added  ",
+      "status": true,
+      "id": 4
+    },
+    {
+      "todo": "Learn typescript 777",
+      "status": false,
+      "id": 7
+    },
+    {
+      "todo": "adding new task",
+      "status": false,
+      "id": 8
+    },
+    {
+      "todo": "clean the house",
+      "status": false,
+      "id": 9
+    }
+  ]
+}
