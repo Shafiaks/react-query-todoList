@@ -66,7 +66,7 @@ function HomePage() {
 					<button
 						type='submit'
 						className='btn'
-						onClick={() => { postMutation.mutate({ todo: newTodo, status: false }) }}>
+						onClick={() => {newTodo==='' ? alert("Please enter something!") : postMutation.mutate({ todo: newTodo, status: false }) }}>
 						Add
 					</button>
 				</form>
