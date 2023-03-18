@@ -19,11 +19,6 @@
       "todo": "clean the house",
       "status": false,
       "id": 9
-    },
-    {
-      "todo": "",
-      "status": false,
-      "id": 10
     }
   ]
 }
